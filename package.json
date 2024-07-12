@@ -1,0 +1,29 @@
+{
+  "name": "learn_react",
+  "version": "1.0.0",
+  "description": "Learn React",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RohithHiremath/learn-react.git"
+  },
+  "keywords": [
+    "react",
+    "learn",
+    "react",
+    "beginner",
+    "rohith"
+  ],
+  "author": "Rohith Hiremath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RohithHiremath/learn-react/issues"
+  },
+  "homepage": "https://github.com/RohithHiremath/learn-react#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
